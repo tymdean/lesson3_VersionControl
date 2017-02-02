@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Febuary 2nd, 2017
 
 ## Student Name:  
-(First and Last Name)
+Tyler Dean
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This project is designed to allow us to discuss lessons learned. This project conatins a webpage outlining five lessons learned in lesson 3. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In lesson 3, I learned about Git Hub and the many possibilities that it has to offer.
+2. In lesson 3, I learned about version control systems, and how they organize data.
+3. In lesson 3, I learned the difference about local repositories and remote repositories.
